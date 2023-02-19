@@ -1,0 +1,1 @@
+This is a simple API that is able to create, read, update and delete products.
